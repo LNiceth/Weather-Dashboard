@@ -6,7 +6,7 @@ This weather dashboard allows users to search for a city and get its current wea
 
 ## Deployed Link
 
-[See Live Site](https://lniceth.github.io/Weather-Forecast/)
+[See Live Site](https://lniceth.github.io/Weather-Dashboard/)
 
 ## Technologies Used
 
